@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#esto es una prueba
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djangoGirls.settings')
     try:
